@@ -1,4 +1,5 @@
 # Playground
+Matthew Stewart
 
 A place to play with `git`.
 
