@@ -1,6 +1,6 @@
 # Playground
-CS249r
 
+Matthew Stewart is taking CS249r
 
 A place to play with `git`.
 
